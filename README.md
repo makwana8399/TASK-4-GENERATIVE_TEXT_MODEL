@@ -24,4 +24,4 @@ In conclusion, this project reflects the intersection of powerful AI models, acc
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/ba272a10-f8c5-453b-8f4b-34edf5685a2b)
+![Image](https://github.com/user-attachments/assets/2e4c0e51-b84c-4da5-91ea-876a525eb88d)
