@@ -12,7 +12,7 @@
 
 *NENTOR*: NEELA SANTOSH
 
-# GENERATIVE TEXT MODEL
+# Generative Text Model
 
 This project is a demonstration of a powerful and practical text generation application built using OpenAI’s GPT-2 language model. At its core, the application allows users to input any topic and receive a well-structured, coherent, and contextually relevant paragraph in response. This model leverages the strength of large-scale transformer-based neural networks to generate human-like language, showcasing its remarkable ability to understand and respond to prompts in a meaningful and fluent way. GPT-2 has been widely recognized for its text generation capabilities, and this implementation highlights just how accessible and useful it can be when wrapped in a user-friendly interface. The model is especially useful in a range of real-world scenarios. In education, it serves as a digital assistant, helping students understand complex topics by providing simplified and informative overviews. For writers, bloggers, and marketers, it functions as a creative companion, helping them overcome writer’s block or draft fresh content ideas. In research and innovation spaces, it can act as a brainstorming engine that generates new perspectives on given topics. Additionally, in business environments, it holds potential for automating routine communication, such as generating customer responses, summarizing documents, or producing help content.
 
