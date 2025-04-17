@@ -21,3 +21,7 @@ The user interface for this application was designed using Gradio, an open-sourc
 The entire development and testing process was carried out on Google Colab, a cloud-based platform that provides free GPU access and allows developers to run machine learning models without the need for local hardware. Colab was instrumental in providing the necessary computational power and collaborative tools required to build and test the model efficiently. The project was further supported by a wide range of learning resources. ChatGPT was used extensively during development to troubleshoot bugs, refine ideas, and receive guidance on best practices. YouTube tutorials served as a hands-on learning platform, providing step-by-step visual explanations of NLP tools and libraries. Geeks for Geeks offered a reliable and structured source of Python examples, programming logic, and implementation techniques that supported key parts of the project.
 
 In conclusion, this project reflects the intersection of powerful AI models, accessible tools, and cloud computing. It brings together the capabilities of GPT-2, the ease of Gradio, and the flexibility of platforms like Google Colab to create a meaningful and interactive experience. By making advanced text generation accessible through an intuitive interface, this project highlights how AI can be a creative, educational, and productive partner in a wide variety of fields.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ba272a10-f8c5-453b-8f4b-34edf5685a2b)
